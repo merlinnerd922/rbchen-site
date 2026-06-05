@@ -1,5 +1,4 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/rbchpesh/public_html
-    - yes | /bin/cp -rf * $DEPLOYPATH
+    - pwd
